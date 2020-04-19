@@ -1,7 +1,7 @@
 ## Pull Requests
 Use apropriate template and don't forget about [DISCLAIMER](#DISCLAIMER)
 - [Pull Request Template](https://github.com/SafeSafe-app/safesafe-android/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
-- [Personal Agreement for Contributors Form](https://github.com/SafeSafe-app/safesafe-android)
+- [Personal License Disclaimer Form](https://github.com/SafeSafe-app/safesafe-android)
 
 ## DISCLAIMER
 We require Digitally Signed Personal Agreement for Contributors collaborating on the project to accept their Pull Requests - it's Public Health so We need Public Trust thus introducing digital two-factor authentication for The Makers - also Apple doesn't go well with GNU so We make them do so manually by following these steps:
