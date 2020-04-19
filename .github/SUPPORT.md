@@ -9,7 +9,7 @@ New GitHub issues may be automatically closed/deleted if not related or not comp
 
 ## New Issue templates:
 
-If you would like to provide a new Issue template please create a [Pull Request](https://github.com/SafeSafe-app/safesafe-android/blob/master/.github/pull-request.md) relating to at least one Issue.  
+If you would like to provide a new Issue template please create a [Pull Request](https://github.com/SafeSafe-app/safesafe-android/blob/master/.github/PULL_REQUEST_TEMPLATE/README.md) relating to at least one Issue.  
 
 ### Medical, Political, Privacy related and/or OS specific Issues
 
