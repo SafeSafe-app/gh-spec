@@ -1,14 +1,14 @@
 ## Pull Requests
 Use apropriate template and don't forget about [DISCLAIMER](#DISCLAIMER)
-- [Pull Request Template](https://github.com/SafeSafe-app/safesafe-android/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
-- [Personal License Disclaimer Form](https://github.com/SafeSafe-app/safesafe-android)
+- [Pull Request Template](https://github.com/SafeSafe-app/gh-spec/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
+- [Personal License Disclaimer Form](https://github.com/SafeSafe-app/gh-spec)
 
 ## DISCLAIMER
 We require Digitally Signed Personal Agreement for Contributors collaborating on the project to accept their Pull Requests - it's Public Health so We need Public Trust thus introducing digital two-factor authentication for The Makers - also Apple doesn't go well with GNU so We make them do so manually by following these steps:
-1. Remember SafeSafe-app software is being released on [GNU GENERAL PUBLIC LICENSE](https://github.com/SafeSafe-app/safesafe-android/blob/master/LICENSE)
+1. Remember SafeSafe-app software is being released on [GNU GENERAL PUBLIC LICENSE](https://github.com/SafeSafe-app/gh-spec/blob/master/LICENSE)
 2. If You would like to contribute any changes to our project repositories You are the author and the owner of these changes, by the law of [GitHub Terms of Use](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) You automatically grant license for these changes .
 3. Mitigating any kind of misunderstanding around copyrights as well as lack of trust for unknown entities in public sector we ask that every Pull Request author verify aforementioned license grants for proposed changes through :
-    * [Downloading personal license disclaimer form](https://github.com/SafeSafe-app/safesafe-android/blob/master/DISCLAIMER) which states that the author:
+    * [Downloading personal license disclaimer form](https://github.com/SafeSafe-app/gh-spec/blob/master/DISCLAIMER) which states that the author:
         * confirms GPL license grant for proposed changes
         * permits everyone and anyone who agrees with the license statements to distribute this software freely in any form or format even in public software providers such as Apple's App Store, Google's Play Store, GitHub, etc.
         * commits the author of changes not to execute his personal copyrights to dismiss them or their license for any reason
