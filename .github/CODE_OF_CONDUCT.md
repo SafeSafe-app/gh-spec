@@ -45,27 +45,27 @@ Opiekunowie społeczności przestrzegać bedą tych Wytycznych Wpływu na Społe
 
 **1. Korekcja**
 
-Wpływ na Społeczność: Używanie nieprzyjaznego języka lub innych form wypowiedzi uważanych za nieetyczne i nieprzyjazne dla społeczności.
+__Wpływ na Społeczność__: Używanie nieprzyjaznego języka lub innych form wypowiedzi uważanych za nieetyczne i nieprzyjazne dla społeczności.
 
-Konsekwencje: Bezpośrednie, pisemne ostrzeżenie od opiekunów społeczności, klasyfikujące naturę wykroczenia oraz objaśnienie dlaczego takie zachowanie jest niestosowne. Może wystąpić prośba o publiczne przeprosiny.
+__Konsekwencje__: Bezpośrednie, pisemne ostrzeżenie od opiekunów społeczności, klasyfikujące naturę wykroczenia oraz objaśnienie dlaczego takie zachowanie jest niestosowne. Może wystąpić prośba o publiczne przeprosiny.
 
 **2. Ostrzeżenie**
 
-Wpływ na Społeczność: Wykroczenie spowodowane jednym incydentem lub serią zdarzeń.
+__Wpływ na Społeczność__: Wykroczenie spowodowane jednym incydentem lub serią zdarzeń.
 
-Konsekwencje: Ostrzeżenie o konsekwencjach w przypadku kontynuowania niepoprawnego zachowania. Brak interakcji z zaangażowanymi osobami, wliczając w to dobrowolną interakcję z osobami odpowiedzialnymi za Egzekwowanie Kodeksu Postępowania przez określony okres czasu. Wliczono również unikanie interakcji w przestrzeniach społecznościowych jak i kanałach zewnętrznych jak media społecznościowe. Łamanie tych zasad może prowadzić do Tymczasowej lub Permanentnej Blokady.
+__Konsekwencje__: Ostrzeżenie o konsekwencjach w przypadku kontynuowania niepoprawnego zachowania. Brak interakcji z zaangażowanymi osobami, wliczając w to dobrowolną interakcję z osobami odpowiedzialnymi za Egzekwowanie Kodeksu Postępowania przez określony okres czasu. Wliczono również unikanie interakcji w przestrzeniach społecznościowych jak i kanałach zewnętrznych jak media społecznościowe. Łamanie tych zasad może prowadzić do Tymczasowej lub Permanentnej Blokady.
 
 **3. Tymczasowa Blokada**
 
-Wpływ na Społeczność: Poważne łamanie standardów społeczności, wliczając w to powtarzające się niewłaściwe zachowanie.
+__Wpływ na Społeczność__: Poważne łamanie standardów społeczności, wliczając w to powtarzające się niewłaściwe zachowanie.
 
-Konsekwencje: Tymczasowa blokada we wszelkich metodach interakcji i komunikacji publicznej ze społecznością przez określony okres czasu. W tym okresie czasu niedozwolona jest żadna forma publicznej i prywatnej interakcji z zaangażowanymi osobami, wliczając w to dobrowolną interakcję z osobami odpowiedzialnymi za Egzekwowanie Kodeksu Postępowania. Łamanie tych zasad może prowadzić do Permanentnej Blokady.
+__Konsekwencje__: Tymczasowa blokada we wszelkich metodach interakcji i komunikacji publicznej ze społecznością przez określony okres czasu. W tym okresie czasu niedozwolona jest żadna forma publicznej i prywatnej interakcji z zaangażowanymi osobami, wliczając w to dobrowolną interakcję z osobami odpowiedzialnymi za Egzekwowanie Kodeksu Postępowania. Łamanie tych zasad może prowadzić do Permanentnej Blokady.
 
 **4. Permanentna Blokada**
 
-Wpływ na Społeczność: Demonstrowanie szeregu zachowań łamiących standardy społeczności, wliczając w to powtarzające się niewłaściwe zachowanie, nękanie lub dyskredytacja jednostki lub grup społecznych, a także jakiekolwiek naruszenie prawa powszechnie obowiązującego.
+__Wpływ na Społeczność__: Demonstrowanie szeregu zachowań łamiących standardy społeczności, wliczając w to powtarzające się niewłaściwe zachowanie, nękanie lub dyskredytacja jednostki lub grup społecznych, a także jakiekolwiek naruszenie prawa powszechnie obowiązującego.
 
-Konsekwencje: Permanentna blokada we wszelkich metodach interakcji i komunikacji publicznej ze społecznością.
+__Konsekwencje__: Permanentna blokada we wszelkich metodach interakcji i komunikacji publicznej ze społecznością.
 
 # Autorstwo
 
