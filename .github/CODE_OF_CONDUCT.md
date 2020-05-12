@@ -8,20 +8,20 @@ Zobowiązujemy się działać i reagować w sposób, który promuje otwartą, pr
 
 Wśród przykładów zachowania, które przyczyniają się do tworzenia pozytywnego środowiska dla społeczności, są:
 
-- Wykazywanie empatii wobec innych członków społeczności
-- Okazywanie szacunku dla różnych punktów widzenia i osobistych doświadczeń
-- Przyjmowanie konstruktywnej krytyki z wdzięcznością
-- Przyjmowanie odpowiedzialności za nasze błędy, wyciąganie wniosków z ich doświadczenia oraz wyrażanie współczucia tym, których dotknęły
-- Skupianie się na tym, co dobre dla całej społeczności, a nie jednostki społecznej
+&mdash; Wykazywanie empatii wobec innych członków społeczności  
+&mdash; Okazywanie szacunku dla różnych punktów widzenia i osobistych doświadczeń  
+&mdash; Przyjmowanie konstruktywnej krytyki z wdzięcznością  
+&mdash; Przyjmowanie odpowiedzialności za nasze błędy, wyciąganie wniosków z ich doświadczenia oraz wyrażanie współczucia tym, których dotknęły  
+&mdash; Skupianie się na tym, co dobre dla całej społeczności, a nie jednostki społecznej  
     
 Wśród przykładów zachowania, którego nie będziemy akceptować, są:
     
-- Używanie języka i grafik o podtekście seksualnym, okazywanie niepożądanego zainteresowania seksualnego, a także zaloty
-- Trollowanie, obraźliwe bądź urągające komentarze oraz ataki osobiste bądź polityczne
-- Nękanie, zarówno na forum publicznym jak i prywatne
-- Publikowanie danych osobistych innych osób — takich jak adres fizyczny czy elektroniczny — bez ich wyraźnej zgody
-- Naruszenie jakichkolwiek praw lub wolności innych osób, w tym w szczególności naruszanie prawa powszechnie obowiązującego
-- Inne zachowania, które mogłyby zostać uznane za nieodpowiednie w kontekście profesjonalnym
+&mdash; Używanie języka i grafik o podtekście seksualnym, okazywanie niepożądanego zainteresowania seksualnego, a także zaloty  
+&mdash; Trollowanie, obraźliwe bądź urągające komentarze oraz ataki osobiste bądź polityczne  
+&mdash; Nękanie, zarówno na forum publicznym jak i prywatne  
+&mdash; Publikowanie danych osobistych innych osób — takich jak adres fizyczny czy elektroniczny — bez ich wyraźnej zgody  
+&mdash; Naruszenie jakichkolwiek praw lub wolności innych osób, w tym w szczególności naruszanie prawa powszechnie obowiązującego  
+&mdash; Inne zachowania, które mogłyby zostać uznane za nieodpowiednie w kontekście profesjonalnym  
     
 # Nasza Odpowiedzialność
 
