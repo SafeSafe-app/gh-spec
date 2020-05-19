@@ -16,7 +16,7 @@ This document outlines Security Procedures and General Policies for this Project
 
 ## Reporting a Vulnerability
 
-Report security vulnerabilities by emailing the lead maintainer at security@safesafe.app.
+Report security vulnerabilities by emailing the lead maintainer at protego.security@mc.gov.pl
 
 The lead maintainer will acknowledge your email within 48 hours, and will send a
 more detailed response within 48 hours indicating the next steps in handling
