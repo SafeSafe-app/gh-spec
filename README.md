@@ -1,4 +1,4 @@
-# GitHub.com + Jira Software integration
+# GitHub - Jira integration
 
 | Build |
 |-------|
