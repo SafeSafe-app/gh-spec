@@ -1,4 +1,4 @@
-# GitHub - Jira integration
+# GitHub + Jira integration
 
 | Build |
 |-------|
@@ -52,6 +52,7 @@ Next you will need to connect your GitHub organization to Jira, see the followin
 As part of the installation flow you should be directed to install the Jira app on GitHub to your organization. You can also manage existing connections or add additional organizations any time within the Manage Add-ons section of your Jira settings:
 ![image](https://user-images.githubusercontent.com/13207348/46588391-633b2f00-ca69-11e8-9c50-4249054b0cfa.png)
 
+
 #### Selecting GitHub repositories
 If you originally gave the app access to "All repositories" and you've created a new repository on GitHub after installing the GitHub integration for Jira, your new repository will automatically work with the integration. If you installed the app on a subset of repositories, the app will need to manually edit your repository selection by:
 1. Sign into your Jira Cloud account
@@ -89,6 +90,14 @@ If an issue body contains a valid Jira issue key on your instance, the integrati
 
 This makes it so Jira issues can be linked inside a comment without it interrupting the flow of the comment as a whole.
 
+### Important Notes for github
+
+Smart Commits only support the default Jira Software issue key format. This format is two or more uppercase letters, followed by a hyphen and the issue number, for example `JRA-123`.  
+
+A DVCS such as Git includes a user's email address in the commit data. Users configure this email address in their local system. Smart Commits requires that this email address match exactly one email address in the Jira Software user base. If the email address matches to multiple users in Jira Software, or the user does not have permissions for the requested action, the Smart Commit action will fail. The commit itself will succeed however, and will show on the issue. Mismatched email addresses is a common reason why Smart Commits fail to work as expected. If a Smart Commit fails, Jira Software sends an email notification to either the Jira Software user, or to the DVCS user (if a Jira Software user can't be identified). In rare cases, Jira Software doesn't have either of these email addresses, and the Smart Commit fails silently.  
+
+Smart commit commands that you execute will appear duplicated under certain circumstances. Altering commit history creates "new" commits, which replace the "old" ones. If those "new" commits contain the same smart commit commands as before the history rewrite, then the same smart commits will be executed again and hence appear to have been duplicated. The commit history altering git commands include `git push --force` and `git merge --squash`.  
+
 ### Manage Jira Subscriptions
 **New**
 
@@ -111,8 +120,6 @@ Take a look through the [troubleshooting steps in our support guide](https://git
 Want to help improve the integration between GitHub and Jira? Check out the [contributing docs](https://github.com/integrations/jira/blob/master/CONTRIBUTING.md) to get involved.
 
 ## License
-The project is available as open source under the terms of the [MIT License](LICENSE).
+The project is available as open source under the terms of the [MIT License](https://github.com/integrations/jira/blob/master/LICENSE).
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-[reference doc](https://github.com/integrations/jira/blob/master/README.md)
